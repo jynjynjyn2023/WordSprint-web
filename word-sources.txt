@@ -1,0 +1,41 @@
+词跃 4000 词条统一词库 · 来源与选词说明
+
+总量：3000 个单词 + 1000 个词组及固定搭配。各类词条合并学习，不按学段分库。
+保留原有 320 个词条的标识和释义，以兼容既有学习记录。
+新增单词重点选择阅读、写作中实用的中等难度词汇，剔除入门词、重复拼写变体、专名及低价值条目。
+词组和搭配经过编写、筛选和复核；每个完整表达计为一个词条。
+不将不规则变化、英美拼写变体反复计数；支持已收录的常见英美拼写。
+这是经过筛选的练习词库，不是上海官方完整考纲，也不是某本教材的逐页词表。
+
+选词难度参考
+The CEFR-J Wordlist Version 1.5. Compiled by Yukio Tono, Tokyo University of Foreign Studies.
+Copyright: Tono Laboratory at TUFS. Research and commercial use permitted with citation.
+https://github.com/openlanguageprofiles/olp-en-cefrj
+https://www.cefr-j.org/download.html
+CEFR-J 级别仅用于新增单词筛选，没有用于分开页面或排行榜。
+
+中文释义参考
+ECDICT — https://github.com/skywind3000/ECDICT
+释义经过缩短、常用义调整与修正。保留原资料的许可说明如下。
+
+MIT License
+
+Copyright (c) 2025 Linwei
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
